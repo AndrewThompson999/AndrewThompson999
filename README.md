@@ -1,4 +1,4 @@
-## Introduction
+# Introduction
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Welcome%20to My%20Page;I'm%20a%20web%20developer%20on%20a%20mission%20to%20make%20the%20web%20better;2+%2B%20years%20of%20coding%20experience&font=Fira%20Code&center=true&width=900&height=45&color=0047AB&vCenter=true&pause=1000&size=25" /></a>
 </p>
